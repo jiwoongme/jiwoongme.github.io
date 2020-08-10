@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+Ji Woong Kim, Doctor’s Course
 
-You can use the [editor on GitHub](https://github.com/jiwoongme/jiwoongme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Career & Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**2020 – Present** 
+Ph. D. Course in Digital Health, Sungkyunkwan University,
+Samsung Advanced Institute for Health Sciences & Technology (SAIHST)
 
-### Markdown
+**2018 – 2020**
+MS in School of Computer Science & Engineering, Kyungpook National University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2017 – 2018**
+Android Developer, WhooperSoft
 
-```markdown
-Syntax highlighted code block
+**2016 – 2017**  
+Android Developer, WOW Communication
 
-# Header 1
-## Header 2
-### Header 3
+**2013 – 2014**  
+Exchange student in Oklahoma University
 
-- Bulleted
-- List
+**2011 – 2016**  
+BS in School of Computer Science & Engineering, Kyungpook National University
 
-1. Numbered
-2. List
+### Skill Set
 
-**Bold** and _Italic_ and `Code` text
+- Medical informatics, Health informatics, Digital healthcare
+- Research & Development
+– Android, Java 
+– Machine Learning, Python
+– FHIR(Fast Healthcare Interoperability Resources)
 
-[Link](url) and ![Image](src)
-```
+### Journal
+• 챗봇을 이용한 FHIR 기반 노인우울척도 설문지의 사용성평가 (2020)
+  (Usability Assessment of FHIR-based Geriatric Depression Scale Questionnaire Using Chatbot)
+Main Author / 정보과학회논문지 (Journal of KIISE, JOK)
+[link] https://doi.org/10.5626/JOK.2020.47.7.650
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Symposium Presentation
 
-### Jekyll Themes
+• Patient-centric medication history recording system using blockchain (2019)
+Main Author / IEEE International Conference on Bioinformatics and Biomedicine BHI workshop
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiwoongme/jiwoongme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+• 챗봇을 통한 FHIR 기반의 노인우울척도 설문지 구현 (2019)
+  (Implementation of FHIR-based Geriatric Depression Scale Questionnaire using Chatbot)
+Main Author / 한국컴퓨터종합학술대회 (Korean Institute of Information Scientists and Engineers)
 
-### Support or Contact
+### Award
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+• Best Paper Award (2019) _The Korea Computer Congress_
+
+• Best Poster Award (2018) _The Korean Society of Medical Informatics_
