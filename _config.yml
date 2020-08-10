@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 
-title: "About me : Ji Woong"
+title: [About me : Ji Woong]
 
-show_downloads: "false"
+show_downloads: ["false"]
