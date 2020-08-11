@@ -1,5 +1,5 @@
 Ji Woong Kim, Doctor’s Course  
-## E-mail : rlawlwoong@gmail.com
+E-mail : rlawlwoong@gmail.com
 
 ### Career & Education
 
