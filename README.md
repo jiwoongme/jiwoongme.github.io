@@ -32,6 +32,7 @@ BS in School of Computer Science & Engineering, Kyungpook National University
 - FHIR(Fast Healthcare Interoperability Resources)
 
 ### Journal
+
 - 챗봇을 이용한 FHIR 기반 노인우울척도 설문지의 사용성평가 (2020)  
   (Usability Assessment of FHIR-based Geriatric Depression Scale Questionnaire Using Chatbot)  
 Main Author / 정보과학회논문지 (Journal of KIISE, JOK)  
@@ -45,6 +46,14 @@ Main Author / IEEE International Conference on Bioinformatics and Biomedicine BH
 - 챗봇을 통한 FHIR 기반의 노인우울척도 설문지 구현 (2019)  
   (Implementation of FHIR-based Geriatric Depression Scale Questionnaire using Chatbot)  
 Main Author / 한국컴퓨터종합학술대회 (Korean Institute of Information Scientists and Engineers)
+
+### Patent
+
+- 복약 정보 관리 방법 (METHOD FOR SUPERVISING MEDICINE INFORMATION)  
+[link](https://doi.org/10.8080/1020180069841)
+
+- 스마트 헬스 앱 개발을 위한 의료 정보 제공 방법, 이를 수행하기 위한 기록 매체 및 장치 (METHOD OF PROVIDING MEDICAL INFORMATION FOR SMART HEALTH APPLICATION, RECORDING MEDIUM AND DEVICE FOR PERFORMING THE METHOD)  
+[link](https://doi.org/10.8080/1020150088680)
 
 ### Award
 
