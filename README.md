@@ -41,11 +41,13 @@ Main Author / 정보과학회논문지 (Journal of KIISE, JOK)
 ### Symposium Presentation
 
 - Patient-centric medication history recording system using blockchain (2019)  
-Main Author / IEEE International Conference on Bioinformatics and Biomedicine BHI workshop
+Main Author / IEEE International Conference on Bioinformatics and Biomedicine BHI workshop  
+[link](https://ieeexplore.ieee.org/document/8983032)
 
 - 챗봇을 통한 FHIR 기반의 노인우울척도 설문지 구현 (2019)  
   (Implementation of FHIR-based Geriatric Depression Scale Questionnaire using Chatbot)  
-Main Author / 한국컴퓨터종합학술대회 (Korean Institute of Information Scientists and Engineers)
+Main Author / 한국컴퓨터종합학술대회 (Korean Institute of Information Scientists and Engineers)  
+[link](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763134)
 
 ### Patent
 
