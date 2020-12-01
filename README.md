@@ -40,6 +40,10 @@ Main Author / 정보과학회논문지 (Journal of KIISE, JOK)
 
 ### Symposium Presentation
 
+- Time Adaptive Model for Real-time Cardiopulmonary Resuscitation Outcome Prediction: A Nationwide Out-of-hospital Cardiac Arrest Study (2020)  
+Main Author / Resuscitation Science Symposium 2020  
+[link](https://doi.org/10.1161/circ.142.suppl_4.315)
+
 - Patient-centric medication history recording system using blockchain (2019)  
 Main Author / IEEE International Conference on Bioinformatics and Biomedicine BHI workshop  
 [link](https://ieeexplore.ieee.org/document/8983032)
